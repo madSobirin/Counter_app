@@ -1,16 +1,23 @@
-# counter_app
+# MY First Project
 
-A new Flutter project.
+**🚀 MY FLUTTER COUNTER APP**
 
-## Getting Started
+Proyek ini adalah aplikasi Flutter pertama saya yang dibuat untuk latihan memahami dasar-dasar Flutter, khususnya tentang StatefulWidget, StatelessWidget, dan navigasi antar halaman.
 
-This project is a starting point for a Flutter application.
+_📱 Deskripsi Aplikasi_
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi ini memiliki fitur sederhana untuk menghitung angka naik dan turun menggunakan tombol + dan -.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Nilai terakhir yang ditampilkan dapat dilihat di halaman kedua setelah menekan tombol panah (FloatingActionButton).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_🧩 Fitur Utama_
+
+Menampilkan angka dinamis berdasarkan aksi pengguna
+
+Tombol + untuk menambah nilai
+
+Tombol - untuk mengurangi nilai
+
+Navigasi ke halaman baru untuk menampilkan hasil akhir
+
+Tampilan sederhana dengan komponen AppBar, Text, dan ElevatedButton
